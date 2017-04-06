@@ -1,0 +1,43 @@
+body{
+    background-color: whitesmoke;
+    
+}
+
+div.name {
+    background-color: black;
+    text-align: center;
+    color: white;
+    width: 230px;
+}
+
+div.adresspicture {
+    background-color: black;
+    text-align: left;
+    color: white;
+}
+
+#picture{
+    float: right;
+}
+
+h1{
+    color: white;
+}
+
+section{
+    width: 300px;
+    border: 25px black;
+    padding: 25px;
+    margin: 25px;
+    outline-style: double;
+}
+
+h2{
+    font-size: 26px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+h3{
+    font-size: 12px;
+}
