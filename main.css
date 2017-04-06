@@ -1,5 +1,20 @@
 body{
     background-color: whitesmoke;
+    font-family: "Oswald", sans-serif;
+    
+}
+
+header {
+    position: relative;
+    padding-bottom: 10px;
+    
+}
+
+#container {
+    background-color: white;
+    max-width: 960px;
+    min-width: 320px;
+    margin: 0 auto 0 auto;
     
 }
 
@@ -7,13 +22,16 @@ div.name {
     background-color: black;
     text-align: center;
     color: white;
-    width: 230px;
+    width: 960px;
+    font-size: 46px;
+        
 }
 
 div.adresspicture {
     background-color: black;
     text-align: left;
     color: white;
+    
 }
 
 #picture{
@@ -36,8 +54,32 @@ h2{
     font-size: 26px;
     text-align: center;
     text-decoration-line: underline;
+    font-family: "Playfair Display Sc", serif;
 }
 
 h3{
     font-size: 12px;
+}
+
+p {
+    font-size: 14px;
+}
+
+a {
+ color: white;
+}
+
+#drhome {
+    color: grey;
+    
+}
+
+#info {
+    background-color: lightslategrey;
+    color: white;
+    text-align: center;
+}
+
+#sub {
+    font-size: 28px;
 }
