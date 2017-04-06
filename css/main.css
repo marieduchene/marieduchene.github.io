@@ -1,0 +1,131 @@
+body{
+    background-color: whitesmoke;
+    font-family: "Oswald", sans-serif;
+    
+}
+
+header {
+    position: relative;
+
+    
+}
+
+#container {
+    background-color: white;
+    max-width: 960px;
+    min-width: 320px;
+    margin: 0 auto 0 auto;
+    
+}
+
+.name {
+    background-color: #d9d9d9;
+    text-align: center;
+    color: white;
+    width: 960px;
+    font-size: 40px;
+        
+}
+
+div.name p {
+    background-color: #d9d9d9;
+    text-align: left;
+    color: white;
+    float: left;
+    margin-left: 50px;
+    font-size: 18px;
+    
+}
+
+#selfie{
+    margin-right: 2px;
+    margin-left: 450px;
+    margin-bottom: 20px;
+    border: 2px solid rgba(255, 255, 255, .3);
+}
+
+h1{
+    color: white;
+    font-size: 140px;
+    margin: 0;
+    
+}
+
+section{
+
+}
+
+h2{
+    font-size: 26px;
+    text-align: center;
+    text-decoration-line: underline;
+    font-family: "Playfair Display Sc", serif;
+}
+
+h3{
+    font-size: 12px;
+}
+
+p {
+    font-size: 14px;
+}
+li {
+    font-size: 14px;
+}
+
+
+#info {
+    background-color: #b3b3b3;
+    color: white;
+    text-align: center;
+}
+
+#sub {
+    font-size: 28px;
+}
+
+#left-col {
+    float: left;
+    width: 280px;
+    position: relative;
+    padding: 10px;
+}
+
+#middle-col {
+    float: left;
+    width: 280px;
+    position: relative;
+    left: 20px;
+    border-left: 2px solid #b3b3b3;
+    border-right: 2px solid #b3b3b3;
+    padding: 10px;
+}
+
+#right-col {
+    float: left;
+    width: 280px;
+    position: relative;
+    left: 50px;
+    padding: 8px;
+}
+
+a:link {
+  color: grey;
+}
+
+
+a:visited {
+    color: mediumslateblue;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+a:active {
+    color: green;
+}
+
+main {
+    width: 960px;
+}
