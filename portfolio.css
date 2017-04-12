@@ -87,6 +87,17 @@ p {
     text-align: center;
 }
 
+#contactme {
+    font: "Oswald";
+    font-size: 16px;
+    max-width: 400px;
+    min-width: 320px;
+    margin: 0 auto 0 auto;
+    position: relative;
+    padding: 20px;
+    margin-top: 60px;
+    align-content: center;
+}
 
 
     
