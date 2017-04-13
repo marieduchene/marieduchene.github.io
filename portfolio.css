@@ -134,16 +134,25 @@ body {
 }
 
 
-.box {
-    width: 20%;
-    float: left;
-    height: 0;
-    padding-bottom: 20%;
-    border: 1px black solid;
-    margin-left: 20px;
-    
+.box-wrapper {
+    display: table;
+    margin: 0 auto;
 }
 
+.box-row {
+    display: table-row;
+}
+
+.box {
+    display: table-cell;
+    height: 0;
+    padding-bottom: 17%;
+    padding-left: 40px;
+    padding-right: 10px;
+    border: 1px black solid;
+    margin: 5px;
+    
+}
 
 
 
