@@ -1,31 +1,31 @@
 body{
     background-color: whitesmoke;
-    font-family: "Oswald", sans-serif;
-    
+    font-family: "Oswald", sans-serif;  
 }
+
 
 header {
-    position: relative;
-
-    
+    position: relative;   
 }
+
+
 
 #container {
     background-color: white;
     max-width: 960px;
     min-width: 320px;
-    margin: 0 auto 0 auto;
-    
+    margin: 0 auto 0 auto;   
 }
+
 
 .name {
     background-color: #d9d9d9;
     text-align: center;
     color: white;
     width: 960px;
-    font-size: 40px;
-        
+    font-size: 40px;       
 }
+
 
 div.name p {
     background-color: #d9d9d9;
@@ -33,9 +33,9 @@ div.name p {
     color: white;
     float: left;
     margin-left: 50px;
-    font-size: 18px;
-    
+    font-size: 18px;   
 }
+
 
 #selfie{
     margin-right: 2px;
@@ -132,3 +132,4 @@ a:active {
 main {
     width: 960px;
 }
+
