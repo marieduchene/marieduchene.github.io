@@ -76,13 +76,13 @@ p {
     min-width: 320px;
     margin: 0 auto 0 auto;
     position: relative;
-    border: 5px black double;
+    border: 1px black solid;
     padding: 20px;
     margin-top: 60px;
 }
 
 
-#backhome {
+#backhome, #back2portfolio {
     text-align: center;
 }
 
@@ -115,5 +115,40 @@ a:active {
 a:hover {
     color:darkgray;
 }
+
+h2 {
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+    padding-right: 30px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 20px;
+  
+}
+
+
+.box {
+    width: 20%;
+    float: left;
+    height: 0;
+    padding-bottom: 20%;
+    border: 1px black solid;
+    margin-left: 20px;
     
-    
+}
+
+
+
+
+
+
+
+
+
