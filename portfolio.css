@@ -120,8 +120,8 @@ h2 {
     color: black;
     font-size: 20px;
     text-align: center;
-    padding-top: 20px;
-    padding-right: 30px;
+    padding-top: 0px;
+    padding-right: 40px;
 }
 
 * {
@@ -129,29 +129,30 @@ h2 {
 }
 
 body {
-    margin: 20px;
+    margin: 0px;
   
 }
 
 
 .box-wrapper {
     display: table;
-    margin: 0 auto;
+    margin: 0 auto 0 auto;
+    padding-top: 80px;
 }
 
 .box-row {
     display: table-row;
 }
 
+
 .box {
     display: table-cell;
     height: 0;
-    padding-bottom: 17%;
-    padding-left: 40px;
+    padding-bottom: 30%;
+    padding-left: 50px;
     padding-right: 10px;
     border: 1px black solid;
-    margin: 5px;
-    
+
 }
 
 
