@@ -138,6 +138,8 @@ body {
     display: table;
     margin: 0 auto 0 auto;
     padding-top: 80px;
+    border-spacing: 15px;
+    
 }
 
 .box-row {
