@@ -154,7 +154,6 @@ body {
 .box {
     display: table-cell;
     height: 0;
-    padding-bottom: 30%;
     padding-left: 50px;
     padding-right: 10px;
     border: none;
