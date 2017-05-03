@@ -32,6 +32,7 @@ header {
 
 
 div.name p {
+    display: block;
     background-color: #d9d9d9;
     text-align: left;
     color: white;
@@ -46,6 +47,7 @@ div.name p {
     margin-left: 450px;
     margin-bottom: 20px;
     border: 2px solid rgba(255, 255, 255, .3);
+    margin-top: -400px;
 }
 
 h1{
@@ -133,6 +135,17 @@ a:active {
 
 main {
     width: 960px;
+}
+
+
+#addresslist {
+    list-style: none;
+    background-color: #d9d9d9;
+    text-align: left;
+    color: white;
+    width: 500px;
+    font-size: 40;  
+    float: left;
 }
 
 

@@ -157,30 +157,41 @@ body {
     padding-bottom: 30%;
     padding-left: 50px;
     padding-right: 10px;
-    border: 1px black solid;
+    border: none;
 }
 
 
 svg {
-  width: 700px;
-  height: auto;
+  width: 960px;
+  height: 600px;
+    overflow: hidden;
 }
 
 
 svg #illustrations {
   display: block;
-  fill: lightgrey;
-  transition: all 0.3s ease-in;
+  fill: #222222;
+  transition: all 2s ease-in;
 }
 
 
 svg:hover #illustrations {
-  fill: #222222;
+  fill: none;
   display: block;
-  transition: all 0.3s ease-in;
+  transition: all 2s ease-in;
 }
 
-    
 
+.portfolioimage {
+    width: 400px;
+    height: 400px;
+}
+
+.portfolioimage:hover {
+    opacity: 0.3;
+    transition: 0.2s opacity ease-in;
+}
+    
+/*--Styles for slider--*/
 
 
