@@ -44,8 +44,8 @@ div.name p {
 
 #selfie{
     margin-right: 2px;
-    margin-left: 450px;
-    margin-bottom: 20px;
+    margin-left: 725px;
+    margin-bottom: 50px;
     border: 2px solid rgba(255, 255, 255, .3);
     margin-top: -400px;
 }
@@ -59,9 +59,9 @@ h1{
 
 
 h2{
-    font-size: 26px;
+    font-size: 30px;
     text-align: center;
-    font-family: "Playfair Display Sc", serif;
+    font-family: "Oswald", sans-serif;
 }
 
 h3{
@@ -69,6 +69,7 @@ h3{
     background-color: #b3b3b3;
     color: white;
     text-align: center;
+    font-family: sans-serif;
 }
 
 
