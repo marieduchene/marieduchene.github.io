@@ -1,8 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Playfair+Display+SC:700');
 
 
-
-body{
+#resumebody {
     background-color: white;
     font-family: "Oswald", sans-serif;  
 }
@@ -18,7 +17,6 @@ header {
     max-width: 960px;
     min-width: 320px;
     margin: 0 auto 0 auto;  
-
 }
 
 
@@ -50,15 +48,14 @@ div.name p {
     margin-top: -400px;
 }
 
-h1{
+.resumeh1 {
     color: white;
     font-size: 140px;
-    margin: 0;
-    
+    margin: 0;  
 }
 
 
-h2{
+.h2resume{
     font-size: 30px;
     text-align: center;
     font-family: "Oswald", sans-serif;
@@ -80,7 +77,7 @@ p {
 }
 
 
-li {
+.resumelist {
     font-size: 14px;
 }
 
@@ -117,20 +114,20 @@ li {
     margin-left: -10px;
 }
 
-a:link {
+.resumelinks:link {
   color: black;
 }
 
 
-a:visited {
+.resumelinks:visited {
     color: maroon;
 }
 
-a:hover {
+.resumelinks:hover {
     color: darkgrey;
 }
 
-a:active {
+,resumelinks:active {
     color: darkblue;
 }
 
