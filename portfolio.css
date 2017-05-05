@@ -192,10 +192,36 @@ svg:hover #illustrations {
 }
 
 .portfolioimagelarge {
-    width: 30%;
+    width: 40%;
     display: block;
     margin: 0 auto;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
+.portfolioimagelarge2 {
+    width: 50%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
 
+.portfolioimagelarge3 {
+    width: 45%;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+.portfolioimagelargehead {
+    padding-top: 30px;
+    display: block;
+    margin: 0 auto;
+    padding-bottom: 30px;
+}
+
+    
+    
+    
+    
+    
+    
