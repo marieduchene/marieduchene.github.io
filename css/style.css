@@ -17,4 +17,5 @@ header {
     margin: 0 auto 0 auto;
     position: relative;
     overflow: auto;
+    padding-left: 380px;
 }
